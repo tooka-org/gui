@@ -1,2 +1,2 @@
-# gui
-GUI for Tooka
+# Tooka GUI
+TODO
